@@ -1,0 +1,12 @@
+{
+  "name": "desafio-01-hello-world-com-docker",
+  "version": "1.0.0",
+  "description": "Nesse desafio, você terá de criar uma imagem docker que quando executada deverá expor a porta 8080 exibindo a mensagem: Eu sou Full Cycle.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["Docker","Node"],
+  "author": "Anderson Santos",
+  "license": "ISC"
+}
